@@ -23,3 +23,8 @@
 
 ## Demo
 [Link to your 150-second YouTube video here]
+
+## Flow
+1. User input -> Scout Agent
+2. Scout Agent -> Analyst Agent
+3. Analyst Agent -> Final Mission Report
