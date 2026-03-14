@@ -1,0 +1,25 @@
+# Project Title: StudyBuddy Nexus 🎓
+
+## Mission Overview
+[cite_start]StudyBuddy Nexus is a Strategic Research Swarm designed to gather and synthesize unstructured academic data[cite: 18, 19]. [cite_start]It helps students navigate complex research by summarizing dense literature and indexing key findings.
+
+## System Architecture (A2A Flow)
+
+[cite_start]The system uses an Agent-to-Agent (A2A) flow[cite: 45]:
+1. [cite_start]**The Scout Agent**: Scans unstructured data (PDFs/Web) for relevant research[cite: 19].
+2. [cite_start]**The Analyst Agent**: Reasons over the gathered data to find insights and contradictions[cite: 19].
+3. **The Editor Agent**: Compiles the final report for the user.
+
+## Agent Profiles
+* **The Scout**: Specialized in high-speed data retrieval and filtering.
+* [cite_start]**The Analyst**: Uses Gemini's reasoning capabilities to synthesize trial data or literature.
+* **The Editor**: Formats technical insights into readable documentation.
+
+## Setup Instructions
+1. Clone this repository.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. [cite_start]Add your API Key to a `.env` file (DO NOT SHARE PUBLICLY [cite: 41]).
+4. Run `python main.py`.
+
+## Demo
+[Link to your 150-second YouTube video here]
