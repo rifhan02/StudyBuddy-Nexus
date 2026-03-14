@@ -1,7 +1,7 @@
 # Project Title: StudyBuddy Nexus 🎓
 
 ## Mission Overview
-StudyBuddy Nexus is a Strategic Research Swarm designed to gather and synthesize unstructured academic data[cite: 18, 19]. [cite_start]It helps students navigate complex research by summarizing dense literature and indexing key findings.
+StudyBuddy Nexus is a Strategic Research Swarm designed to gather and synthesize unstructured academic data. It helps students navigate complex research by summarizing dense literature and indexing key findings.
 
 ## System Architecture (A2A Flow)
 
