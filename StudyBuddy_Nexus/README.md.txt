@@ -33,3 +33,6 @@
 * The Scout (Data Ingestion): Responsible for gathering unstructured data, such as indexing PDFs or scraping research text
 * The Analyst (Reasoning Engine): Synthesizes the gathered information to find insights and reason over complex data
 * The Architect (Recovery specialist): Monitors the swarm's performance and handles failures if an agent fails to provide a reasoning trace.
+
+## System Architecture
+User Input -> [Scout Agent] -> Raw Data -> [Analyst Agent] -> Reasoned Synthesis
