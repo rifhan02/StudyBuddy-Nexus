@@ -27,6 +27,8 @@ https://youtu.be/FzKkKq_8tLc
 User Input -> Scout Agent -> Raw Data -> Analyst Agent -> Architect Monitoring -> Final Mission Report
 
 ![Functional Diagram](diagram.png)
+
+
 graph TD
     User([User Input: Research Topic]) --> Scout[Scout Agent]
     
