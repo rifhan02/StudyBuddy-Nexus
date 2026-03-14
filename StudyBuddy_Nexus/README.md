@@ -10,11 +10,6 @@
 2. [cite_start]**The Analyst Agent**: Reasons over the gathered data to find insights and contradictions[cite: 19].
 3. **The Editor Agent**: Compiles the final report for the user.
 
-## Agent Profiles
-* **The Scout**: Specialized in high-speed data retrieval and filtering.
-* [cite_start]**The Analyst**: Uses Gemini's reasoning capabilities to synthesize trial data or literature.
-* **The Editor**: Formats technical insights into readable documentation.
-
 ## Setup Instructions
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
@@ -22,7 +17,7 @@
 4. Run `python main.py`.
 
 ## Demo
-[Link to your 150-second YouTube video here]
+https://youtu.be/FzKkKq_8tLc
 
 ## Flow
 1. User input -> Scout Agent
